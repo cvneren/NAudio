@@ -53,6 +53,12 @@ NAudio is an open source .NET audio library written by [Mark Heath](https://mark
 * Support for UWP (preliminary)
   * Create Windows 8 Store apps and Windows Universal apps
 
+## Planned by Can
+
+* Add RMS Level check
+* ...
+
+
 ## Getting Started
 
 The easiest way to install NAudio into your project is to install the latest [NAudio NuGet package](https://www.nuget.org/packages/NAudio/). Prerelease versions of NAudio are also often made available on NuGet.
